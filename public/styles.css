@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #f5ba13;
+  background-color: #002147;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -58,8 +58,8 @@ footer p {
 .note button {
   position: relative;
   float: right;
-  margin-right: 19px;
-  color: #f5ba13;
+  margin-right: 21px;
+  color: #cc6c5c;
   border: none;
   width: 36px;
   height: 36px;
